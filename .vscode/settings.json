@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "D:\\VS_Shared\\Python39_64\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\admin\\AppData\\Roaming\\Python\\Python39\\site-packages"
+    ]
+}

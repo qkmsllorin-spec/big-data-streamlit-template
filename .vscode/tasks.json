@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Streamlit Dashboard",
+            "type": "shell",
+            "command": "D:\\VS_Shared\\Python39_64\\python.exe",
+            "args": [
+                "-m",
+                "streamlit",
+                "run",
+                "app.py"
+            ],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
