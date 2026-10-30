@@ -1,6 +1,6 @@
-kafka-python
-pymongo
 streamlit
+pymongo
+certifi
 pandas
-openpyxl
 requests
+openpyxl
