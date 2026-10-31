@@ -4,3 +4,4 @@ certifi
 pandas
 requests
 openpyxl
+plotly
