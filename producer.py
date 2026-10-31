@@ -51,7 +51,7 @@ def fetch_weather_data():
                 "local_time_str": now_manila.strftime("%A, %b %d, %Y • %I:%M:%S %p"),
                 "value": float(curr.get("temp_c", 0.0)),
                 "metric_type": "Temperature_C",
-                "sensor_id": f"sensor_pasig_01",
+                "sensor_id": "sensor_pasig_01",
                 "city": DISPLAY_CITY,
                 "country": "Philippines",
                 "temp_c": float(curr.get("temp_c", 0.0)),
